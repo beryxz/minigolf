@@ -83,3 +83,7 @@ Forest Park - Hole 10
 
 Game Scoreboard
 ![Game Scoreboard](media/scoreboard-example.png)
+
+## Releases
+
+- __[v1.0.0]__: 2025-06-24
